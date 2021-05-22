@@ -46,10 +46,10 @@ body {
 }
 body
     {
-     
+      direction: rtl;
       background-image: url(images/desertbackground.jpg);
       background-position: center;
-      background-size:3500;
+      background-size:4000;
       background-size:100%;
       background-repeat:no-repeat;
    
