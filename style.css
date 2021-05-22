@@ -49,7 +49,7 @@ body
       direction: rtl;
       background-image: url(images/desertbackground.jpg);
       background-position: center;
-      background-size: 130%;
+      background-size: 200%;
       background-attachment:scroll;
       background-repeat:no-repeat;
     }
