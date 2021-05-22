@@ -50,6 +50,7 @@ body
       background-image: url(images/desertbackground.jpg);
       background-position: center;
       background-size:3500;
+      background-size:100%;
       background-repeat:no-repeat;
    
       
