@@ -1,0 +1,54 @@
+
+h1 {
+	color: purple;
+	text-align:center;
+	font-family: Tahoma;
+	font-size: 40;
+}
+h3 {
+	color: green;
+	text-align:center;
+	font-family: Tahoma;
+	font-size: 20;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+body {
+	color: green;
+	text-align:center;
+	font-family: Tahoma;
+	font-size: 20;
+}
+#round {
+	width:200;
+	border:3px solid red;
+	border-radius: 50%;
+	 padding: 5px;
+}
+#round2 {
+	width:200;
+	border:3px solid blue;
+	border-radius: 50%;
+	 padding: 5px;
+}
+
+.text {
+	color:white;
+	font-size: 18;
+	font-family: Calibri;
+}
+.text2 {
+	color:black;
+	font-size: 18;
+	font-family: Calibri;
+}
+body
+    {
+      direction: rtl;
+      background-image: url(images/desertbackground.jpg);
+      background-position: center;
+ background-size: 130%;
+      background-repeat:no-repeat;
+    }
