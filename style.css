@@ -49,8 +49,8 @@ body
       direction: rtl;
       background-image: url(images/desertbackground.jpg);
       background-position: center;
-      background-size: 200%;
-      background-repeat: repeat-y; 
+	    background-size:3000px;
+      background-repeat:no-repeat;
      background-attachment:fixed;
       
     }
